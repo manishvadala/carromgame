@@ -1,0 +1,23 @@
+USING KEYBOARD:
+	Using left arrow and right arrow you can move the striker
+	using "a" and "c" you can rotate the striker pointer anti-clockwise and clockwise
+	using up arrow and down arrow you can increase and decrease the speed
+	and last space(ASCII=32) is used for shoot 
+
+USING MOUSE:
+	right click on the striker and drag the striker to set position
+	left click on the board and it shoots at that point after releasing left mouse button
+	speed is automatic
+
+
+
+
+
+
+
+SCORING FOR POCKETING COINS
+	White Coin = -5 points
+	Black Coin = +5 points
+	Red coin = +20 points
+	If Striker Fells in the hole -5 points for that
+	every second consumes 1 point
