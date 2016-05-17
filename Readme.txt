@@ -1,8 +1,8 @@
-Sample Collision OpenGL Code
+Simple Carrom Board Game
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
 About:
-This is a simple program which draws a ball inside a box. This ball is given some velocity and collides with the boundaries.
+This is a simple program which draws a ball inside a box. This ball is given some velocity and collides with other balls and boundaries.
 
 How to run:
 -> The makefile compiles the code. (Type 'make' on the terminal)
