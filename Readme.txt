@@ -8,13 +8,13 @@ How to run:
 -> The makefile compiles the code. (Type 'make' on the terminal)
 -> Now type './sampleCollision' (on terminal) to run the executable. {in linux}
 
-TA's are always there to help you, contact them whenever needed :)
+I'm always there to help you, contact me whenever needed :)
 Be Creative. 
 Have Fun making games! :D
 
 ~Cheers~
-Graphics TA's
+Manish Reddy
 
-PS: The following opengl tutorials proved pretty helpful to us when we studied the course:
+PS: The following opengl tutorials proved pretty helpful to me when i did this game:
 >> http://www.videotutorialsrock.com/
 >> http://nehe.gamedev.net/
